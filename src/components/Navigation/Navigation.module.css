@@ -1,0 +1,21 @@
+.nav {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  padding: 12px 24px;
+  background-color: #f5bb45;
+  font-size: 24px;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(12, 12, 12);
+}
+
+.link:hover {
+  color: #686ffe;
+}
+
+.isActive {
+  color: #3e47f4;
+}
